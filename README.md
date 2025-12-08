@@ -116,6 +116,9 @@ This project is free to use for learning and development purposes.
 
 If you like this project, consider giving the repository a **⭐ star** on GitHub.
 ### New Feature: Emoji Sentiment Support (Coming Soon)
+### 😀 Emoji Sentiment Support Coming Soon!
+Our model will soon detect the sentiment of emojis like 😊😢😠
+
 
 
 
