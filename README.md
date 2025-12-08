@@ -115,6 +115,8 @@ This project is free to use for learning and development purposes.
 ## ⭐ Thank You!
 
 If you like this project, consider giving the repository a **⭐ star** on GitHub.
+### New Feature: Emoji Sentiment Support (Coming Soon)
+
 
 
 
