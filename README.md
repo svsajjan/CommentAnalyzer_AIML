@@ -17,9 +17,9 @@ The project uses **Python**, **Natural Language Processing (NLP)**, and **Stream
 
 ## 📁 Project Structure
 comment_analyzer/
-│── app.py # Main Streamlit application
-│── requirements.txt # Project dependencies
-│── README.md # Project documentation
-│── .streamlit/
-│ └── config.toml # Theme settings
+- app.py # Main Streamlit application
+- requirements.txt # Project dependencies
+- README.md # Project documentation
+- .streamlit/
+  - config.toml # Theme settings
 
